@@ -7,17 +7,6 @@
  */
 
 /**
- * Prolog: First sorry for the long delay , i would like to note that i installed a new IDE called PHPStorm
- * and i had some problems to initialize the interpreter with Xampp which was my major cause of delay.
- * also i had to learn more about this language, because of my lack of PHP knowledge as i was told you
- * in the interview. overall the time i had given to this task was about 50-60 hours, note that about 40 hour
- * took me to initialize the IDE with Xampp (i had to see a few tutorials).
- * Thanks for the opportunity if you have any question please address me i will be glad to answer them.
- */
-
-
-
-/**
  * @param $imageFile is the given image file.
  * @param int $granularity is the random optical texture of processed photographic film
  * @return array|bool returns a sorted array of all color of the given image in a descended order, otherwise return false
